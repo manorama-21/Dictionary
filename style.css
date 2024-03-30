@@ -125,7 +125,7 @@ ul .word i {
   cursor: pointer;
 }
 ul .content {
-  max-height: 215px;
+  max-height: 210px;
   overflow-y: auto;
 }
 ul .content::-webkit-scrollbar {
